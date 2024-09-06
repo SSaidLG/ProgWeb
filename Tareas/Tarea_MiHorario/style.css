@@ -1,0 +1,33 @@
+.table {
+    width: 80%; /* Ajusta el ancho de la tabla */
+    margin: 20px auto; /* Centra la tabla */
+    border-collapse: collapse; /* Combina los bordes */
+    font-family: 'Arial', serif ; /* Fuente de la tabla */
+    font-size: 14px; /* Tamaño de la fuente */
+}
+
+/* Estilo para las celdas */
+.th, td {
+    padding: 12px 15px; /* Espaciado dentro de las celdas */
+    border: 1px solid #ddd; /* Borde de las celdas */
+    text-align: center; /* Alineación centrada del texto */
+}
+
+.hora{
+    background-color: rgba(29, 4, 111, 0.372);
+    color: rgb(25, 24, 24);
+    
+}
+
+.cienciasS{
+    background-color: darkorange;
+
+}
+
+.programacion{
+    background-color: cadetblue;
+}
+
+.libre{
+    background-color: greenyellow;
+}
