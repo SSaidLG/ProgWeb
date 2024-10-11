@@ -1,0 +1,15 @@
+.fondo1{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.hm{
+    text-align: center;
+    border: 2px solid rgb(15, 62, 120);
+    
+}
+
+.fondo2{
+    background: rgb(67,180,58);
+background: linear-gradient(90deg, rgba(67,180,58,1) 0%, rgba(253,160,29,1) 47%, rgba(69,131,252,1) 100%);
+}

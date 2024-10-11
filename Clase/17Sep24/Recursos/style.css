@@ -1,0 +1,12 @@
+@font-face{
+    font-family: FunnyToys;
+    src: url(Fuentes/FunnyToysDEMO.otf);
+}
+
+body{
+    background: rgb(8,3,92);
+    background: linear-gradient(151deg, rgba(8,3,92,1) 0%, rgba(163,10,43,1) 49%, rgba(8,126,120,1) 100%);
+    font-family: FunnyToys;
+    color: white;
+    font-size: 30px;
+}
